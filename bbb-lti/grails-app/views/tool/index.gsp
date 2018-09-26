@@ -74,9 +74,9 @@
                         href="${createLink(controller:'tool',action:'delete',id: '0')}?bbb_recording_id=${r.recordID}">
                       </a>
                     </td>
-                    </g:if>
+                   </g:if>
                 </tr>
-                </g:if>
+                  </g:if>
             </g:each>
             </tbody>
         </table>
